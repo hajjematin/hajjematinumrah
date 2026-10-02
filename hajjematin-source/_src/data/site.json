@@ -1,0 +1,32 @@
+{
+  "name": "حج متین",
+  "baseUrl": "https://hajjematin.github.io",
+  "basePath": "",
+  "customDomain": "",
+  "contentUpdated": "2026-10-02",
+  "phone": "09104203220",
+  "phoneIntl": "989104203220",
+  "phoneDisplay": "0910 420 3220",
+  "instagram": "https://www.instagram.com/hajjematin",
+  "bale": "https://ble.ir/09104203220",
+  "address": {
+    "country": "IR",
+    "locality": "تهران",
+    "street": "میدان شهدا"
+  },
+  "hours": {
+    "text": "شنبه تا پنجشنبه، ساعت ۹ تا ۱۶",
+    "days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "opens": "09:00",
+    "closes": "16:00"
+  },
+  "instagramFollowers": "بیش از ۹۰ هزار",
+  "experience": "بیش از ۳۰ سال"
+}
